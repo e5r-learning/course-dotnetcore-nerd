@@ -22,7 +22,7 @@ A idéia deste curso é introduzir de uma forma técnica um programador a plataf
   - https://github.com/dotnet/fsharp
   - https://github.com/dotnet/install-scripts
   - https://github.com/dotnet/cli-lab
-  - https://github.com/dotnet/standard/tree/master/docs/versions
+  - https://github.com/dotnet/standard
   - https://github.com/dotnet/roslyn-sdk
   - https://github.com/dotnet/msbuild
   - https://github.com/dotnet/project-system
@@ -54,5 +54,6 @@ A idéia deste curso é introduzir de uma forma técnica um programador a plataf
   - https://github.com/dotnet/EntityFramework.Docs
 * Net Standard
   - https://docs.microsoft.com/pt-br/dotnet/api/?view=netstandard-1.6
+  - https://github.com/dotnet/standard/tree/master/docs/versions
 * Net UI
   - https://devblogs.microsoft.com/dotnet/introducing-net-multi-platform-app-ui/
